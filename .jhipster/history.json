@@ -1,0 +1,25 @@
+{
+  "values" : [ {
+    "serviceId" : "init"
+  }, {
+    "serviceId" : "maven-java"
+  }, {
+    "serviceId" : "java-base"
+  }, {
+    "serviceId" : "gitpod"
+  }, {
+    "serviceId" : "springboot"
+  }, {
+    "serviceId" : "springboot-tomcat"
+  }, {
+    "serviceId" : "aop-logging"
+  }, {
+    "serviceId" : "springboot-jwt"
+  }, {
+    "serviceId" : "postgresql"
+  }, {
+    "serviceId" : "liquibase"
+  }, {
+    "serviceId" : "liquibase-user-and-authority-changelogs"
+  } ]
+}
